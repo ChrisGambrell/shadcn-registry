@@ -13,7 +13,7 @@
     "@t3-oss/env-nextjs",
     "@types/mdx",
     "bcryptjs",
-    "next-auth",
+    "next-auth@beta",
     "react-hot-toast",
     "zod"
   ],
