@@ -2,24 +2,25 @@
   "name": "auth-block",
   "type": "registry:block",
   "dependencies": [
-    "@auth/prisma-adapter",
-    "@cgambrell/utils",
-    "@mdx-js/loader",
-    "@mdx-js/react",
-    "@next/mdx",
-    "@prisma/client",
-    "@radix-ui/react-label",
-    "@radix-ui/react-slot",
-    "@t3-oss/env-nextjs",
-    "@types/mdx",
-    "bcryptjs",
-    "next-auth@beta",
-    "react-hot-toast",
-    "zod"
+    "@auth/prisma-adapter@2.7.0",
+    "@cgambrell/utils@0.1.0",
+    "@mdx-js/loader@3.0.1",
+    "@mdx-js/react@3.0.1",
+    "@next/mdx@14.2.15",
+    "@prisma/client@5.20.0",
+    "@radix-ui/react-label@2.1.0",
+    "@radix-ui/react-slot@1.1.0",
+    "@t3-oss/env-nextjs@0.11.1",
+    "@types/mdx@2.0.13",
+    "bcryptjs@2.4.3",
+    "next-auth@5.0.0-beta.22",
+    "react-hot-toast@2.4.1",
+    "zod@3.23.8"
   ],
   "devDependencies": [
-    "@types/bcryptjs",
-    "prisma"
+    "@tailwindcss/typography@0.5.15",
+    "@types/bcryptjs@2.4.6",
+    "prisma@5.20.0"
   ],
   "registryDependencies": [
     "button",
